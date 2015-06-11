@@ -7,3 +7,5 @@ My configurations with some programs
 <li>Tmux</li>
 <li>Bash</li>
 </ul>
+
+<strong>Manual copy the files to user home.</strong>
